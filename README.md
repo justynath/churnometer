@@ -49,7 +49,6 @@ Each row represents a customer, each column contains a customer attribute. The d
 | TotalCharges     | Total amount charged as a customer of our company           | 18.8 - 8.68k                                                                         |
 | Churn            | Customer churned or not                                     | Yes or No                                                                            |
 
-
 ## Project Terms & Jargon
 	- A customer is a person who consumes your service or product.
 	- A prospect is a potential customer.
